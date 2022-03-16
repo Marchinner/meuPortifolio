@@ -1,0 +1,15 @@
+body {
+  background-color: #ebebea;
+  font-family: sans-serif;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+figure {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+.divContatos {
+  display: inline-block;
+}
