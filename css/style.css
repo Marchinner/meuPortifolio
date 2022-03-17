@@ -10,6 +10,10 @@ figure {
   margin: 0 10px 10px 0;
 }
 
+.divProjetos {
+  display:inline-flexbox;
+}
+
 .divContatos {
   display: inline-block;
 }
